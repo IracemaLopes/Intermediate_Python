@@ -1,4 +1,4 @@
-#we are trying to get an insight evolution of the world poluplation
+#we are trying to get an insight evolution of the world population
 import matplotlib.pyplot as plt
 year=[1950,1970,1990,2010]
 #number of population is in expressed in billions of how many people lived on earth
